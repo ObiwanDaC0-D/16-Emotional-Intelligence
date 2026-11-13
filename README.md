@@ -33,6 +33,10 @@ Emotional intelligence is not a single uncontested construct. Ability, trait and
 
 Foundational reading leads have not been independently verified as a systematic literature review.
 
+## V5 integration review
+
+Improved mobile navigation, responsive controls, export downloads, and state preservation across learning journey transitions. Existing locally saved data is retained unless explicitly cleared.
+
 ## Status
 
-V4 committed. Live browser deployment and end-to-end interaction testing have not yet been independently verified.
+V5 committed. JavaScript syntax validated; live browser end-to-end testing remains outstanding. Live browser deployment and end-to-end interaction testing have not yet been independently verified.
