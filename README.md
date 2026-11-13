@@ -9,6 +9,7 @@ An evidence-aware, responsive, standalone educational app for emotional awarenes
 - **Concept Map:** domain-filtered navigation across related frameworks.
 - **Emotion Atlas:** emotion labeling, valence and activation map, contextual observations and JSON export.
 - **EI Simulator (V2):** configure emotional triggers, perceived activation, cognitive appraisals, regulation strategies and behavioral responses; compare interpretations, save/export experiments and navigate to the Regulation Lab.
+- **Regulation Comparison Lab (V3):** side-by-side comparison of seven emotion regulation strategies across six contexts, qualitative tradeoffs, personal learning repertoire, local persistence and JSON export.
 - **Regulation Lab:** seven regulation strategies and saved action experiments.
 - **Empathy Studio:** structured observation, perspective-taking, alternative hypotheses, clarification and boundaries.
 - **Social Scenarios:** five applied situations with choices, contextual feedback, relevant theory links and learning history.
@@ -33,4 +34,4 @@ Foundational reading leads have not been independently verified as a systematic 
 
 ## Status
 
-V2 committed. Live browser deployment and end-to-end interaction testing have not yet been independently verified.
+V3 committed. Live browser deployment and end-to-end interaction testing have not yet been independently verified.
